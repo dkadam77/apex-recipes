@@ -1,5 +1,5 @@
 import { createElement } from 'lwc';
-import ErrorPanel from 'c/errorPanel' ;
+import ErrorPanel from 'c/errorPanel';
 
 describe('c-error-panel', () => {
     afterEach(() => {
